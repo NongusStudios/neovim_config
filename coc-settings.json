@@ -1,0 +1,6 @@
+{
+    "suggest.noselect": true,
+    "highlight.colors.enable": true,
+
+    "semanticTokens.enable": true
+}
