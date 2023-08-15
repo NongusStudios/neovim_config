@@ -45,6 +45,7 @@ call plug#begin()
     Plug 'jiangmiao/auto-pairs'
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     Plug 'voldikss/vim-floaterm'
+    Plug 'andweeb/presence.nvim'
 call plug#end()
 
 " onedark
